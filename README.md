@@ -2,8 +2,8 @@
 Trabalhos e códigos relacionados a matéria de arquivos do período 24.1 no CEFET-Rj.
 
 ## Projetos
-    1. [Hash Join em C](#hashjoinemc)
-    2. [Busca Binária em C](#buscabinariaemc)
+1. [Hash Join em C](#hashjoinemc)
+2. [Busca Binária em C](#buscabinariaemc)
 
 <div id='hashjoinemc'/>  
 
