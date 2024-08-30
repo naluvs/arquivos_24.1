@@ -9,7 +9,7 @@ Trabalhos e códigos relacionados a matéria de arquivos do período 24.1 no CEF
 
 ## Hash Join em C
 
-    Descrição do trabalho em base/labarquivos.pdf.
+Descrição do trabalho em base/labarquivos.pdf.
 
 1. Rode o arquivo reduzArquivo.c para reduzir um arquivo em 80%, com registros selecionados aleatoriamente.
 
